@@ -11,4 +11,4 @@ KtorNotesProject is the complete Kotlin-stack note taking 🖊️ application �
 ## 💡 About the Project
 This project includes two subprojects:
 
-🔹 Noty API
+🔹 Rest API
