@@ -14,6 +14,6 @@ This project includes two subprojects:
 ### 🔹 [KtorNotesAPI](https://github.com/BlackDragon2002/KtorNotesProject/tree/master/KtorNotesAPI)
    This is a REST API built using Ktor Framework <br>
    Navigate to [/KtorNotesAPI](https://github.com/BlackDragon2002/KtorNotesProject/tree/master/KtorNotesAPI) directory to browse and know more about Noty API project.
-#### 🔹 [Noty Android Application](https://github.com/BlackDragon2002/KtorNotesProject/tree/master/KtorNoteApp)
+#### 🔹 [Android Application](https://github.com/BlackDragon2002/KtorNotesProject/tree/master/KtorNoteApp)
 This is an Android application which uses KtorNotesAPI. It has application UI implementation using traditional Android's Navigation Architecture <br>
 Navigate to [/KtorNoteApp](https://github.com/BlackDragon2002/KtorNotesProject/tree/master/KtorNoteApp) to browse and know more about Noty Android project.
